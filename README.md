@@ -15,7 +15,7 @@
 <br></br>
 > pip install -r requirements.txt
 <br></br>
-> pkg instal colorama
+> pkg install colorama
 <br></br>
 > python OsintBsz.py
 ## quieres emular pagina web :
