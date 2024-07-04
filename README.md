@@ -15,6 +15,8 @@
 <br></br>
 > pip install -r requirements.txt
 <br></br>
+> pkg instal colorama
+<br></br>
 > python OsintBsz.py
 ## quieres emular pagina web :
 https://replit.com/@StrAva1/OsintBsz?v=1
